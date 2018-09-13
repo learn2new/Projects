@@ -1,6 +1,7 @@
 # Let's put different types of Ideas 
 
-1. Configuring Monitoring System (Open Source)
+1. ======== Configuring Monitoring System (Open Source) ========================
+
 Need to create a Grafana based monitoring system which can do the following out of the box:
 A time series database as a backend for Grafana which is scalable and can support data of upto 5000 servers.
 
