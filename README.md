@@ -5,3 +5,4 @@ Let share our findings/knowledge on different type of troubleshooting scenarios.
 3. Elasticsearch
 4. RMQ
 5. AWS
+6. Kubernets
