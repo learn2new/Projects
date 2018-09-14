@@ -6,9 +6,7 @@ Need to create a Grafana based monitoring system which can do the following out 
 A time series database as a backend for Grafana which is scalable and can support data of upto 5000 servers.
 
 Custom Collectd (or any other agent) which can be installed on a server which will send metrics to time series database.
-
 An integration with email and pagerduty is required so that alerts can be sent over email as well as to PagerDuty in parallel.
-
 
 EC2 Metrics (CPU, Disk, Memory, Status Checks, i.e. AWS Metrics)
 CPU and Status Checks metrics will be imported from Cloud Watch to Grafana
